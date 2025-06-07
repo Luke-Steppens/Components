@@ -1,5 +1,4 @@
-# Components
-This contains code and schematics for various single components
+# GC9A01 Round LCD TFT
 
 
 For the Round LCD Screenshots taken from:
