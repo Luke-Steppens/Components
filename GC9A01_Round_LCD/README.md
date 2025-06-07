@@ -20,6 +20,12 @@ This video was cross-referenced with the official Waveshare documentation:
 
 ![GC9A01 Second Screenshot](https://github.com/Luke-Steppens/Components/blob/main/GC9A01_Round_LCD/Screenshots/wave.png?raw=true)
 
+---
+
+Here is the **Fritzing wiring diagram** I created for this setup:
+
+![Fritzing Diagram](https://github.com/Luke-Steppens/Components/blob/main/GC9A01_Round_LCD/Screenshots/fritz.png?raw=true)
+
 <br>
 
-📝 The code for this component was taken directly from the Waveshare website (Right at the Bottom).
+📝 The code for this component was taken directly from the Waveshare website.
