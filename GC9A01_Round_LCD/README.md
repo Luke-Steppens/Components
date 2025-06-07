@@ -8,7 +8,7 @@ For the round LCD, I used this YouTube video (screenshot below is from the same 
 
 <br>
 
-![Screenshot of GC9A01 output](https://github.com/Luke-Steppens/Components/blob/main/GC9A01_Round_LCD/Screenshot%202025-06-07%20144242.png?raw=true)
+![Screenshot of GC9A01 output](https://github.com/Luke-Steppens/Components/blob/main/GC9A01_Round_LCD/Screenshots/yt.png?raw=true)
 
 ---
 
@@ -18,8 +18,8 @@ This video was cross-referenced with the official Waveshare documentation:
 
 <br>
 
-![GC9A01 Second Screenshot](https://github.com/Luke-Steppens/Components/blob/main/GC9A01_Round_LCD/Screenshot%202025-06-07%20150826.png?raw=true)
+![GC9A01 Second Screenshot](https://github.com/Luke-Steppens/Components/blob/main/GC9A01_Round_LCD/Screenshots/wave.png?raw=true)
 
 <br>
 
-📝 The code for this component was taken directly from the Waveshare website and adapted for Arduino Uno.
+📝 The code for this component was taken directly from the Waveshare website (Right at the Bottom).
