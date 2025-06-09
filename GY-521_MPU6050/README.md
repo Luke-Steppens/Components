@@ -27,6 +27,21 @@ Full repo: [https://github.com/jrowberg/i2cdevlib](https://github.com/jrowberg/i
 
 ---
 
+### 🧩 Wiring Diagram
+
+![Wiring Diagram](https://github.com/Luke-Steppens/Components/blob/main/GY-521_MPU6050/Screenshots/Fritz.png?raw=true)
+
+---
+
+### ⚡ Power Notes
+
+Although the MPU6050 chip runs at **3.3V**, the GY-521 breakout board includes an **onboard voltage regulator**, allowing it to be powered directly from the **5V pin on your Arduino**.
+
+- Connect `VCC` on the GY-521 to `5V`, **not 3.3V**
+- The regulator steps the voltage down safely for the sensor
+
+
+---
 ### 🧪 Test Sketch
 
 To test the sensor:
