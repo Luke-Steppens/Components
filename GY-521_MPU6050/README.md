@@ -37,7 +37,7 @@ Full repo: [https://github.com/jrowberg/i2cdevlib](https://github.com/jrowberg/i
 
 Although the MPU6050 chip runs at **3.3V**, the GY-521 breakout board includes an **onboard voltage regulator**, allowing it to be powered directly from the **5V pin on your Arduino**.
 
-- Connect `VCC` on the GY-521 to `5V`, **not 3.3V**
+- Connect `VCC` on the GY-521 to `5V`, **not 3.3V** (when using this for the self righting robot 3.3v was used because 5v didnt work may need to ammend this readme)
 - The regulator steps the voltage down safely for the sensor
 
 
